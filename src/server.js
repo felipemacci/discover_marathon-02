@@ -18,4 +18,4 @@ server.use(routes)
 
 // request, response
 
-server.listen(3000, () => console.log('rodando'))
+server.listen(5050, () => console.log('rodando'))

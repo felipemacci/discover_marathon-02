@@ -37,6 +37,10 @@
 
 }
 
+body {
+  overflow-x: hidden;
+}
+
 /* user-agent font-size is 16px, let's make it responsive */
 @media(max-width: 1080px) {
   html {
